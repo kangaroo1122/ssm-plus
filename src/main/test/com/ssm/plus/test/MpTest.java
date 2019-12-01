@@ -24,17 +24,6 @@ public class MpTest {
     private AdminMapper adminMapper;
 
     @Test
-    public void testLambda(){
-        List<Integer> list = new ArrayList<>();
-        list.add(1);
-        list.add(1);
-        list.add(1);
-        list.add(1);
-        list.add(1);
-        list.forEach(System.out::println);
-    }
-
-    @Test
     public void select(){
         System.out.println("查询测试：");
         List<Admin> adminList = adminMapper.selectList(null);
