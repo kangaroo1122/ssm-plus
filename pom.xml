@@ -21,7 +21,7 @@
         <jsp.version>2.3.1</jsp.version>
         <jstl.version>1.2</jstl.version>
         <mybatisplus.version>3.2.0</mybatisplus.version>
-        <spring.version>5.2.0.RELEASE</spring.version>
+        <spring.version>5.2.21.RELEASE</spring.version>
         <mysql.version>5.1.40</mysql.version>
         <log4j.version>1.2.27</log4j.version>
         <lombok.version>1.18.10</lombok.version>
